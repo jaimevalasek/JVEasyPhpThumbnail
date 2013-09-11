@@ -6,7 +6,7 @@ Use this module to generate thumbnail to apply the images on your website.
 
 This module is using the library Easy Php Thumbniail, to know how to use the methods access the author's website - http://www.mywebmymail.com/?q=content/easyphpthumbnail-class
 
-Futures video lessons can be developed and published on the website or Youtube channel http://www.zf2.com.br/tutoriais http://www.youtube.com/zf2tutoriais
+Futures video lessons poderam be developed and posted on the website or in http://www.zf2.com.br/tutoriais Youtube channel http://www.youtube.com/zf2tutoriais
 
 Installation
 -----
