@@ -22,7 +22,7 @@ OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 */
 
-namespace JVEasyPhpThumbnail\Library;
+namespace JVEasyPhpThumbnail\Service;
 
 class PHPThumb {
 	
@@ -769,6 +769,9 @@ class PHPThumb {
 
 		if (is_array($filename) && $output=="file") {
 			foreach ($filename as $name) {
+			    echo "<pre>";
+			    exit(print_r($name));
+			    echo "</pre>";
 				$this->image=$name;
 				$this->thumbmaker();
 				$this->savethumb();

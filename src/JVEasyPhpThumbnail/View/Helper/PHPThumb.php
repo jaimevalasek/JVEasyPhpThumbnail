@@ -2,7 +2,7 @@
 
 namespace JVEasyPhpThumbnail\View\Helper;
 
-use JVEasyPhpThumbnail\Library\PHPThumb as EasyPhpThumbnail;
+use JVEasyPhpThumbnail\Service\PHPThumb as EasyPhpThumbnail;
 use Zend\View\Helper\AbstractHelper;
 
 class PHPThumb extends AbstractHelper
